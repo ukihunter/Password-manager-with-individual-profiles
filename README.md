@@ -67,11 +67,10 @@ python login.py
 
 - Add support for exporting/importing password data.
 
-**❤️ Acknowledgments**
+## ❤️ Acknowledgments
 
-- CustomTkinter for the modern UI components.
-
-- Pillow for image handling.
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - For the modern UI components.
+- [Pillow](https://python-pillow.org/) - For image handling.
 
 Enjoy using PassGen! 🔒 
 
