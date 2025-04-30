@@ -59,19 +59,20 @@ python login.py
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
-**💡 Future Improvements
-**
+**💡 Future Improvements**
+
 - Add password encryption for better security.
 
 - Implement a search feature for easier password retrieval.
 
 - Add support for exporting/importing password data.
 
-**❤️ Acknowledgments
-**
+**❤️ Acknowledgments**
+
 - CustomTkinter for the modern UI components.
 
 - Pillow for image handling.
+
 Enjoy using PassGen! 🔒 
 
 
